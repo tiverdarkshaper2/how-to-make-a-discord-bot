@@ -9,7 +9,7 @@ The **🤖 How to Make a Discord Bot** is the most comprehensive guide and tools
 
 <div align="center">
 
-[![Download How to Make a Discord Bot](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/how-to-make-a-discord-bot-free)
+[![Download How to Make a Discord Bot](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://software-nation.com/how-to-make-a-discord-bot-free)
 
 </div>
 
@@ -107,7 +107,7 @@ You need a simple guide. Ready-to-use templates. Tools that do the work for you.
 6. **📚 Choose Tutorial** — select beginner or advanced
 7. **🔧 Follow Steps** — create your first bot
 
-[![Download How to Make a Discord Bot](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/how-to-make-a-discord-bot-free)
+[![Download How to Make a Discord Bot](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://software-nation.com/how-to-make-a-discord-bot-free)
 
 ### Quick Start Guide
 
@@ -204,7 +204,7 @@ Create your own Discord bot today. **How to Make a Discord Bot** gives you step-
 
 <div align="center">
 
-[![Download How to Make a Discord Bot](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/how-to-make-a-discord-bot-free)
+[![Download How to Make a Discord Bot](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://software-nation.com/how-to-make-a-discord-bot-free)
 
 **Version 4.6.1** — Create Discord bots easily. Free forever.
 
